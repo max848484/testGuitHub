@@ -20,10 +20,6 @@ void loop() {
   delay(1000);                      // wait for a second
   digitalWrite(GPIO_DATA_LED, LOW);   // turn the LED off by making the voltage LOW
   delay(1000);                      // wait for a second
-
-  // Code pour tester GitHub.
-
-  // Code pour tester GitHub 2.  
   
 }
 
