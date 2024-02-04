@@ -22,6 +22,8 @@ void loop() {
   delay(1000);                      // wait for a second
 
   // Code pour tester GitHub.
+
+  // Code pour tester GitHub 2.  
   
 }
 
